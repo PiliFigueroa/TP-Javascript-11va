@@ -68,7 +68,8 @@ renderPorSucursal(): Muestra una lista del importe total vendido por cada sucurs
 `
 render(): Tiene que mostrar la unión de los dos reportes anteriores,
 cual fue el producto más vendido y la vendedora que más ingresos generó
-
+`
+`
 Reporte
 Ventas por mes:
   Total de enero 2019: 1250

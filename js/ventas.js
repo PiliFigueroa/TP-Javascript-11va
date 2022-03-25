@@ -1,4 +1,4 @@
-var local = {
+const local = {
   vendedoras: ["Ada", "Grace", "Hedy", "Sheryl"],
   sucursales: ["Centro", "Caballito"],
 
